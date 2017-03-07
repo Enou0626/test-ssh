@@ -5,3 +5,4 @@
 console.log(require('./support'));
 
 var a = 1;
+var b =2;
